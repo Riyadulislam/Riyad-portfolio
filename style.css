@@ -32,3 +32,22 @@ section {
     background-image: url(developer-portfolio-main/images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.second {
+    display: flex;
+}
+
+.dram-big {
+    width: 50%;
+}
+
+.big {
+    width: 50%;
+    padding-left: 10px;
+}
+
+.second {
+    background-image: url(developer-portfolio-main/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
